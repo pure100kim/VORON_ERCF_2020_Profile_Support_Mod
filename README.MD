@@ -21,12 +21,13 @@ https://github.com/sneakytreesnake/SturdyBunnyProject
 
 
 
+
 **Version History**
 
-2023.04.07 Fri 3D Modeling
+2023.04.07(Fri) 3D Modeling
 
-2023.04.08 Print out and assembly
+2023.04.08(Sat) Print out and assembly
 
-2023.04.09 added M5*10mm screww hole
+2023.04.09(Sun) added M5*10mm screww hole
 
 
