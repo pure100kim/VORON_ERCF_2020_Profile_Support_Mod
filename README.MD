@@ -18,3 +18,11 @@ The assembly is simple and uses M3 20mm screws. Please measure and cut the 2020 
 If you are building from scratch, we recommend the following mod.
 
 https://github.com/sneakytreesnake/SturdyBunnyProject
+
+
+**Version History**
+2023.04.07 Fri 3D Modeling
+2023.04.08 Print out and assembly
+2023.04.09 added M5*10mm screww hole
+
+
